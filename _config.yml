@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "L.A.J. (Lieke) van den Biggelaar"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Lieke van den Biggelaar"
-description              : &description "PhD Student in Exceptional Model Mining at Eindhoven University of Technology"
+description              : &description "PhD Candidate in Data Mining"
 url                      : https://liekevandenbiggelaar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liekevandenbiggelaar/liekevandenbiggelaar.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Lieke van den Biggelaar"
   pronouns         : "she/her"  
-  bio              : "PhD Student in Exceptional Model Mining at Eindhoven University of Technology"
+  bio              : "PhD Candidate in Data Mining"
   location         : "Eindhoven, the Netherlands"
-  employer         : "Eindhoven University of Technology"
+  employer         : "Technische Universiteit Eindhoven University of Technology"
   uri              : # URL
   email            : "l.a.j.v.d.biggelaar@tue.nl" 
 
