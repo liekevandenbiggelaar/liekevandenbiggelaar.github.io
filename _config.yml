@@ -26,7 +26,7 @@ author:
   pronouns         : "she/her"  
   bio              : "PhD Candidate in Data Mining"
   location         : "Eindhoven, the Netherlands"
-  employer         : "Technische Universiteit Eindhoven University of Technology"
+  employer         : #"Technische Universiteit Eindhoven University of Technology"
   uri              : # URL
   email            : "l.a.j.v.d.biggelaar@tue.nl" 
 
