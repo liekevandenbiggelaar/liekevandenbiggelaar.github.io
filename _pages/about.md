@@ -11,7 +11,7 @@ I'm a Data Scientist that wants to apply data mining for the greater good. After
 
 Recent Publications
 ======
-- van den Biggelaar, L.A.J. (2024). "Characterizing Atrial Fibrillation During and After Cardiac Surgery: An Exceptional Model Mining Approach on ECG Morphology Abnormalities" Master Thesis.
+- van den Biggelaar, L.A.J. (2024). &quot;Characterizing Atrial Fibrillation During and After Cardiac Surgery: An Exceptional Model Mining Approach on ECG Morphology Abnormalities&quot; <i>Master Thesis</i>.
 
 
 Recent Updates
