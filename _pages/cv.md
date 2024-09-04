@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-# * Ph.D in Data Mining, Eindhoven University of Technology, 2029 (expected)
 * M.Sc. in Data Science & Artificial Intelligence, Eindhoven University of Technology, 2024
 * B.Sc. in Data Science, Eindhoven University of Technology, 2024
 
