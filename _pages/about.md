@@ -13,5 +13,5 @@ I'm a Data Scientist that wants to apply data mining for the greater good. After
 
 Updates
 ======
-- ***09/2024***, The start of my Ph.D. in Data Mining at Eindhoven University of Technology [TU/e](https://www.tue.nl/en/).
+- ***09/2024***: The start of my Ph.D. in Data Mining at Eindhoven University of Technology.
 
