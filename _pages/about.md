@@ -18,3 +18,12 @@ Recent Updates
 ======
 - ***09/2024***: The start of my Ph.D. in Data Mining at Eindhoven University of Technology.
 
+Education
+======
+
+
+|         Period        | Degree |                  Topic                 |                        University                       |
+|:---------------------:|:------:|:--------------------------------------:|:-------------------------------------------------------:|
+| Sep. 2024 - current   | Ph.D.  | Exceptional Model Mining               | Eindhoven University of Technology                      |
+| Sep. 2022 - Aug. 2024 | M.Sc.  | Data Science & Artificial Intelligence | Eindhoven University of Technology                      |
+| Sep. 2019 - Aug. 2022 | B.Sc.  | Data Science                           | Eindhoven University of Technology                      |
