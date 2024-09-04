@@ -5,7 +5,7 @@ category: thesis
 permalink: /publication/2022-06-GestureRecognition
 excerpt: 'We implemented a reinforcement learning structure (Deep Q-Networks) to classify gestures from WiFi-CSI signals while overcoming the domain shift caused by the data.'
 date: 2022-06-28
-venue: #'Bachelor Thesis'
+venue: 'research TU/e'
 slidesurl: #'' 
 paperurl: 'https://research.tue.nl/en/studentTheses/gesture-recognition-using-deep-q-networks-on-wifi-csi-data'
 citation: 'van den Biggelaar, L.A.J. (2022). &quot;Gesture recognition using Deep Q-Networks on WiFi-CSI data&quot; <i>Bachelor Thesis</i>.'
