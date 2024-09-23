@@ -21,7 +21,7 @@ repository               : "liekevandenbiggelaar/liekevandenbiggelaar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "portraitLieke.jpg"
   name             : "Lieke van den Biggelaar"
   pronouns         : "she/her"  
   bio              : "PhD Candidate in Data Mining"
