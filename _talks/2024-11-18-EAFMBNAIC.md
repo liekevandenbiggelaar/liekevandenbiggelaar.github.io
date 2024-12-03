@@ -4,7 +4,7 @@ collection: talks
 type: "Poster Presentation"
 permalink: /talks/2024-18-11-EAFMBNAIC
 venue: "BNAIC 2024"
-date: 2024-18-11
+date: 2024-11-18
 location: "Utrecht, Netherlands"
 ---
 
