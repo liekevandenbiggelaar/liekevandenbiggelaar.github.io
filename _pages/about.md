@@ -15,7 +15,7 @@ Recent Publications
 
 Recent Talks
 ======
-- BNAIC 2024 Poster Presentation &quot;Characterizing Atrial Fibrillation During and After Cardiac Surgery: An Exceptional Model Mining Approach on ECG Morphology Abnormalities&quot; 18-11-2024.
+-  18-11-2024: BNAIC 2024 Poster Presentation &quot;Characterizing Atrial Fibrillation During and After Cardiac Surgery: An Exceptional Model Mining Approach on ECG Morphology Abnormalities&quot;.
 
 
 Education
