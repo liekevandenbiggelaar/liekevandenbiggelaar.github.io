@@ -8,4 +8,4 @@ date: 2024-11-18
 location: "Utrecht, Netherlands"
 ---
 
-I have presented my Master Thesis as a poster presentation at BNAIC 2024 ([abstract](files/BNAIC2024_70_abstract_finalversion kopie.pdf), [poster](files/PosterA0_EAFM-6 kopie.pdf)).
+I have presented my Master Thesis as a poster presentation at BNAIC 2024 ([abstract](https://liekevandenbiggelaar.github.io/files/BNAIC2024Abstract.pdf), [poster](https://liekevandenbiggelaar.github.io/files/BNAIC2024Poster.pdf).
