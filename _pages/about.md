@@ -13,10 +13,10 @@ Recent Publications
 ======
 - van den Biggelaar, L.A.J. (2024). &quot;Characterizing Atrial Fibrillation During and After Cardiac Surgery: An Exceptional Model Mining Approach on ECG Morphology Abnormalities&quot; <i>Master Thesis</i>.
 
-
-Recent Updates
+Recent Talks
 ======
-- ***09/2024***: The start of my Ph.D. in Data Mining at Eindhoven University of Technology.
+- BNAIC 2024 Poster Presentation &quot;Characterizing Atrial Fibrillation During and After Cardiac Surgery: An Exceptional Model Mining Approach on ECG Morphology Abnormalities&quot; 18-11-2024.
+
 
 Education
 ======
