@@ -11,11 +11,13 @@ I'm a Data Scientist that wants to apply data mining for the greater good. After
 
 Recent Publications
 ======
-- van den Biggelaar, L.A.J. (2024). &quot;Characterizing Atrial Fibrillation During and After Cardiac Surgery: An Exceptional Model Mining Approach on ECG Morphology Abnormalities&quot; <i>Master Thesis</i>.
+- August 2025: Lieke van den Biggelaar, Rianne M. Schouten, Ashley de Bie, R. Arthur Bouwman, and Wouter Duivesteijn. 2025. Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes. In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '25). Association for Computing Machinery, New York, NY, USA, 4925–4934. https://doi.org/10.1145/3711896.3737200
 
 Recent Talks
 ======
--  18-11-2024: BNAIC 2024 Poster Presentation &quot;Characterizing Atrial Fibrillation During and After Cardiac Surgery: An Exceptional Model Mining Approach on ECG Morphology Abnormalities&quot;.
+-  August 2025: KDD 2025 Oral and Poster Presentation in the Applied Data Science track &quot;Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes&quot;.
+- July 2025: Barista Science Day 2025 at Catharina Hospital &quot;Het Karakteriseren van het Risico op Atrium Fibrilleren bij Hartpatiënten op Basis van Uitzonderlijke ECG Fenotypes&quot;.
+- May 2025: IDA 2025 PhD Forum &quot; Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes&quot;.
 
 
 Education
