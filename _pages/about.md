@@ -15,9 +15,14 @@ Recent Publications
 
 Recent Talks
 ======
+- September 2025: ECMLPKDD 2025 Oral and Poster Presentation in the Nectar Track &quot;Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes&quot;.
 -  August 2025: KDD 2025 Oral and Poster Presentation in the Applied Data Science track &quot;Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes&quot;.
 - July 2025: Barista Science Day 2025 at Catharina Hospital &quot;Het Karakteriseren van het Risico op Atrium Fibrilleren bij Hartpatiënten op Basis van Uitzonderlijke ECG Fenotypes&quot;.
-- May 2025: IDA 2025 PhD Forum &quot; Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes&quot;.
+
+
+Teaching
+======
+- Autumn 2025: Lecturer in the Research Topics in Data Mining course at the Department of Computer Science and Mathematics at Eindhoven University of Technology&quot;
 
 
 Education
