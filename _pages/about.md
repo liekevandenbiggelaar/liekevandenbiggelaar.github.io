@@ -15,9 +15,7 @@ Recent Publications
 
 Recent Talks
 ======
-- September 2025: ECMLPKDD 2025 Oral and Poster Presentation in the Nectar Track &quot;Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes&quot;.
--  August 2025: KDD 2025 Oral and Poster Presentation in the Applied Data Science track &quot;Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes&quot;.
-- July 2025: Barista Science Day 2025 at Catharina Hospital &quot;Het Karakteriseren van het Risico op Atrium Fibrilleren bij Hartpatiënten op Basis van Uitzonderlijke ECG Fenotypes&quot;.
+- February 2026: ICI Forum Abstract Presentation &quot;Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes&quot;.
 
 
 Teaching
