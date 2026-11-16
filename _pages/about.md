@@ -15,10 +15,10 @@ Publications
 Here you can find my published work, sorted by year.
 
 **2026**
-- D. Chambon, H. Storms, T. van Gorcum, N. Bogavarapu, J. Ludwicki, W. Duivesteijn, **L. van den Biggelaar**. 2026. [Discovering Stratified Learning Strategies for Student Subgroups with Exceptional Study Behavior: More Fine-grained Significance Categories in Regression Models](https://doi.org/10.1007/978-3-032-41086-3_47). In Proceedings of the 29th International Conference on Discovery Science (DS 2026). Lecture Notes in Computer Science, Springer, Cham, p. 737-752.
+- D. Chambon, H. Storms, T. van Gorcum, N. Bogavarapu, J. Ludwicki, W. Duivesteijn, **L. van den Biggelaar**. 2026. [Discovering Stratified Learning Strategies for Student Subgroups with Exceptional Study Behavior: More Fine-grained Significance Categories in Regression Models](https://doi.org/10.1007/978-3-032-41086-3_47). In: Proceedings of the 29th International Conference on Discovery Science (DS 2026). Lecture Notes in Computer Science, Springer, Cham, p. 737-752.
 
 **2025**
-- **L. van den Biggelaar**, R.M. Schouten, A.J.R. de Bie, R.A. Bouwman, and W. Duivesteijn. 2025. [Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes](https://doi.org/10.1145/3711896.3737200). In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '25). Association for Computing Machinery, New York, NY, USA, p. 4925–4934. 
+- **L. van den Biggelaar**, R.M. Schouten, A.J.R. de Bie, R.A. Bouwman, and W. Duivesteijn. 2025. [Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes](https://doi.org/10.1145/3711896.3737200). In: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '25). Association for Computing Machinery, New York, NY, USA, p. 4925–4934. 
 
 
 Abstracts at Medical Congresses
