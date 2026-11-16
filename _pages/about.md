@@ -15,18 +15,18 @@ Publications
 Here you can find my published work, sorted by year.
 
 **2026**
-- Dani Chambon, Hilde Storms, Teun van Gorcum, Neha Bogavarapu, Jan Ludwicki, Wouter Duivesteijn, Lieke van den Biggelaar. 2026. [Discovering Stratified Learning Strategies for Student Subgroups with Exceptional Study Behavior: More Fine-grained Significance Categories in Regression Models](https://doi.org/10.1007/978-3-032-41086-3_47). In Proceedings of the 29th International Conference on Discovery Science (DS 2026). 
+- D. Chambon, H. Storms, T. van Gorcum, N. Bogavarapu, J. Ludwicki, W. Duivesteijn, **L. van den Biggelaar**. 2026. [Discovering Stratified Learning Strategies for Student Subgroups with Exceptional Study Behavior: More Fine-grained Significance Categories in Regression Models](https://doi.org/10.1007/978-3-032-41086-3_47). In Proceedings of the 29th International Conference on Discovery Science (DS 2026). 
 
 **2025**
-- Lieke van den Biggelaar, Rianne M. Schouten, Ashley de Bie, R. Arthur Bouwman, and Wouter Duivesteijn. 2025. [Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes](https://doi.org/10.1145/3711896.3737200). In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '25). Association for Computing Machinery, New York, NY, USA, 4925–4934. 
+- **L. van den Biggelaar**, R.M. Schouten, A.J.R. de Bie, R.A. Bouwman, and W. Duivesteijn. 2025. [Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes](https://doi.org/10.1145/3711896.3737200). In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '25). Association for Computing Machinery, New York, NY, USA, 4925–4934. 
 
 
 Abstracts at Medical Congresses
 ======
-Part of my research is an extensive collaboration with the Catharina Hospital in Eindhoven, where we are trying to answer relevant medical questions using exceptional model mining and other pattern mining and data mining techniques. The following works have been published as medical abstracts. 
-- L. van den Biggelaar, J. Koolwijk, R. Deneer, L.C.R. Dekker, R.A. Bouwman, A.J.R. de Bie, L.C. Otterspoor, W. Duivesteijn: Subgroup Discovery for phenotyping trigger-induced atrial fibrillation in patients with sepsis. Presented at the Annual Congress of the European Society of Intensive Care Medicine (ESICM), Lisbon, October 2026. 
-- J. Koolwijk, R. Deneer, L. van den Biggelaar, A.J.R. de Bie, L.C.R. Dekker, R.A. Bouwman, W. Duivesteijn, L.C. Otterspoor: Clinical Phenotypes in Sepsis Patients with Atrial Fibrillation. Presented at the Annual Congress of the European Society of Intensive Care Medicine (ESICM), Lisbon, October 2026. 
-- L. van den Biggelaar, R.M. Schouten, I. Paulussen, A.J.R. de Bie, R.A. Bouwman, W. Duivesteijn: Stratified Care in Postoperative Atrial Fibrillation: Using Exceptional Model Mining to Identify High-Risk Patient Subgroups for Targeted Prevention. Presented at the European Society of Intensive Care Medicine (ESICM) Intensive Care Innovation (ICI) forum, Amsterdam, February 2026.
+Part of my research is an extensive collaboration with the Catharina Ziekenhuis in Eindhoven, where we are trying to answer relevant medical questions using exceptional model mining and other pattern mining and data mining techniques. The following works have been published as medical abstracts. 
+- **L. van den Biggelaar**, J. Koolwijk, R. Deneer, L.C.R. Dekker, R.A. Bouwman, A.J.R. de Bie, L.C. Otterspoor, W. Duivesteijn: Subgroup Discovery for phenotyping trigger-induced atrial fibrillation in patients with sepsis. Presented at the Annual Congress of the European Society of Intensive Care Medicine (ESICM), Lisbon, October 2026. 
+- J. Koolwijk, R. Deneer, **L. van den Biggelaar**, A.J.R. de Bie, L.C.R. Dekker, R.A. Bouwman, W. Duivesteijn, L.C. Otterspoor: Clinical Phenotypes in Sepsis Patients with Atrial Fibrillation. Presented at the Annual Congress of the European Society of Intensive Care Medicine (ESICM), Lisbon, October 2026. 
+- **L. van den Biggelaar**, R.M. Schouten, I. Paulussen, A.J.R. de Bie, R.A. Bouwman, W. Duivesteijn: Stratified Care in Postoperative Atrial Fibrillation: Using Exceptional Model Mining to Identify High-Risk Patient Subgroups for Targeted Prevention. Presented at the European Society of Intensive Care Medicine (ESICM) Intensive Care Innovation (ICI) forum, Amsterdam, February 2026.
 
 
 Teaching
