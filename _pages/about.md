@@ -9,31 +9,33 @@ redirect_from:
 
 Hi, I am Lieke and I am a PhD Candidate in the Data Mining cluster at Eindhoven University of Technology. My research focusses around Exceptional model mining in time-varying domains. I am happy to apply these techniques for the greater good in our collaborations with a local hospital and a Mathematics company. I am supervised by [dr. Wouter Duivesteijn](https://wwwis.win.tue.nl/~wouter/).
 
-Publications (sorted by year)
+Publications
 ======
-2026
+Find below my published work, sorted by year.
+
+*2026*
 - Dani Chambon, Hilde Storms, Teun van Gorcum, Neha Bogavarapu, Jan Ludwicki, Wouter Duivesteijn, Lieke van den Biggelaar. 2026. [Discovering Stratified Learning Strategies for Student Subgroups with Exceptional Study Behavior: More Fine-grained Significance Categories in Regression Models](https://doi.org/10.1007/978-3-032-41086-3_47). In Proceedings of the 29th International Conference on Discovery Science (DS 2026). 
 
-2025
+*2025*
 - Lieke van den Biggelaar, Rianne M. Schouten, Ashley de Bie, R. Arthur Bouwman, and Wouter Duivesteijn. 2025. [Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes](https://doi.org/10.1145/3711896.3737200). In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '25). Association for Computing Machinery, New York, NY, USA, 4925–4934. 
 
 Recent Abstracts at Medical Congresses
 ======
 Part of my research is an extensive collaboration with the Catharina Hospital in Eindhoven, where we are trying to answer relevant medical questions using exceptional model mining and other pattern mining and data mining techniques. The following works have been published as medical abstracts. 
-- L. van den Biggelaar, J. Koolwijk, R. Deneer, L.C.R. Dekker, R.A. Bouwman, A.J.R. de Bie, L.C. Otterspoor, W. Duivesteijn: Subgroup Discovery for phenotyping trigger-induced atrial fibrillation in patients with sepsis. Presented at the Annual Congress of the European Society of Intensive Care Medicine (ESICM), Lisbon, October 2026. Medical Abstract.
-- J. Koolwijk, R. Deneer, L. van den Biggelaar, A.J.R. de Bie, L.C.R. Dekker, R.A. Bouwman, W. Duivesteijn, L.C. Otterspoor: Clinical Phenotypes in Sepsis Patients with Atrial Fibrillation. To be presented at the Annual Congress of the European Society of Intensive Care Medicine (ESICM), Lisbon, October 2026. Medical Abstract.
+- L. van den Biggelaar, J. Koolwijk, R. Deneer, L.C.R. Dekker, R.A. Bouwman, A.J.R. de Bie, L.C. Otterspoor, W. Duivesteijn: Subgroup Discovery for phenotyping trigger-induced atrial fibrillation in patients with sepsis. Presented at the Annual Congress of the European Society of Intensive Care Medicine (ESICM), Lisbon, October 2026. 
+- J. Koolwijk, R. Deneer, L. van den Biggelaar, A.J.R. de Bie, L.C.R. Dekker, R.A. Bouwman, W. Duivesteijn, L.C. Otterspoor: Clinical Phenotypes in Sepsis Patients with Atrial Fibrillation. Presented at the Annual Congress of the European Society of Intensive Care Medicine (ESICM), Lisbon, October 2026. 
+- L. van den Biggelaar, R.M. Schouten, I. Paulussen, A.J.R. de Bie, R.A. Bouwman, W. Duivesteijn: Stratified Care in Postoperative Atrial Fibrillation: Using Exceptional Model Mining to Identify High-Risk Patient Subgroups for Targeted Prevention. Presented at the European Society of Intensive Care Medicine (ESICM) Intensive Care Innovation (ICI) forum, Amsterdam, February 2026.
 
 Teaching
 ======
-- Schoolyear 2026 - 2027: Lecturer in the Research Topics in Data Mining course at the Department of Computer Science and Mathematics at Eindhoven University of Technology&quot;
-- Currently supervising two master students.
+- Lecturer in the Research Topics in Data Mining course at the Department of Computer Science and Mathematics at Eindhoven University of Technology&quot;
+- I also supervise master students during their master thesis.
 
 |         Period        |    Student   | Degree |                  Topic                 |                  Collaborators                   |
 |:---------------------:|:------------:|:------:|:--------------------------------------:|:------------------------------------------------:|
 | Nov. 2026 - current   | Mirthe Denis | M.Sc.  | tbd                                    | Eindhoven University of Technology & Catharina Ziekenhuis |
 | Sep. 2026 - current   | Vera Jansen  | M.Sc.  | Stratified Student Strategies          | Eindhoven University of Technology & Algebrakit  |
 | May 2026 - current    | David Wolf   | M.Sc.  | Synthetic Missing at Random Image Data | Eindhoven University of Technology               |
-
 
 Education
 ======
