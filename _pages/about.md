@@ -13,7 +13,7 @@ Publications
 ======
 Here you can find my published work, sorted by year.
 
-***2026**
+**2026**
 - Dani Chambon, Hilde Storms, Teun van Gorcum, Neha Bogavarapu, Jan Ludwicki, Wouter Duivesteijn, Lieke van den Biggelaar. 2026. [Discovering Stratified Learning Strategies for Student Subgroups with Exceptional Study Behavior: More Fine-grained Significance Categories in Regression Models](https://doi.org/10.1007/978-3-032-41086-3_47). In Proceedings of the 29th International Conference on Discovery Science (DS 2026). 
 
 **2025**

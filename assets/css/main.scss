@@ -39,3 +39,24 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================================================================
+   Custom Font Size Overrides
+   ========================================================================== */
+
+/* Option 1: Scale the entire site globally across screen sizes */
+html {
+  font-size: 14px; // Mobile default (theme default is 16px)
+
+  @include breakpoint($medium) {
+    font-size: 15px; // Theme default is 18px
+  }
+
+  @include breakpoint($large) {
+    font-size: 16px; // Theme default is 20px
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 17px; // Theme default is 22px
+  }
+}
