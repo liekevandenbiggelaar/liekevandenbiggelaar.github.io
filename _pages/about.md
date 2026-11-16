@@ -7,17 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Data Scientist that wants to apply data mining for the greater good. After my bachelor Data Science and master Data Science & Artificial Intelligence I found that my passion lies with research. As of September 2024 I have started as a PhD Candidate in Data Mining at Eindhoven University of Technology, where I focus on generalizing Exceptional Model Mining techniques. My supervisor is [dr. Wouter Duivesteijn](https://wwwis.win.tue.nl/~wouter/).
+Hi, I am Lieke and I am a PhD Candidate in the Data Mining cluster at Eindhoven University of Technology. My research focusses around Exceptional model mining in time-varying domains. I am happy to apply these techniques for the greater good in our collaborations with a local hospital and a Mathematics company. I am supervised by [dr. Wouter Duivesteijn](https://wwwis.win.tue.nl/~wouter/).
 
-Recent Publications
+Publications (sorted by year)
 ======
-- October 2026: Dani Chambon, Hilde Storms, Teun van Gorcum, Neha Bogavarapu, Jan Ludwicki, Wouter Duivesteijn, Lieke van den Biggelaar. 2026. Discovering Stratified Learning Strategies for Student Subgroups with Exceptional Study Behavior: More Fine-grained Significance Categories in Regression Models. In Proceedings of the 29th International Conference on Discovery Science (DS 2026). to appear
-- August 2025: Lieke van den Biggelaar, Rianne M. Schouten, Ashley de Bie, R. Arthur Bouwman, and Wouter Duivesteijn. 2025. Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes. In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '25). Association for Computing Machinery, New York, NY, USA, 4925–4934. https://doi.org/10.1145/3711896.3737200
+2026
+- Dani Chambon, Hilde Storms, Teun van Gorcum, Neha Bogavarapu, Jan Ludwicki, Wouter Duivesteijn, Lieke van den Biggelaar. 2026. [Discovering Stratified Learning Strategies for Student Subgroups with Exceptional Study Behavior: More Fine-grained Significance Categories in Regression Models](https://doi.org/10.1007/978-3-032-41086-3_47). In Proceedings of the 29th International Conference on Discovery Science (DS 2026). 
 
-Recent Talks
+2025
+- Lieke van den Biggelaar, Rianne M. Schouten, Ashley de Bie, R. Arthur Bouwman, and Wouter Duivesteijn. 2025. [Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes](https://doi.org/10.1145/3711896.3737200). In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '25). Association for Computing Machinery, New York, NY, USA, 4925–4934. 
+
+Recent Abstracts at Medical Congresses
 ======
-- February 2026: ICI Forum Abstract Presentation &quot;Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes&quot;.
-
+Part of my research is an extensive collaboration with the Catharina Hospital in Eindhoven, where we are trying to answer relevant medical questions using exceptional model mining and other pattern mining and data mining techniques. The following works have been published as medical abstracts. 
+- L. van den Biggelaar, J. Koolwijk, R. Deneer, L.C.R. Dekker, R.A. Bouwman, A.J.R. de Bie, L.C. Otterspoor, W. Duivesteijn: Subgroup Discovery for phenotyping trigger-induced atrial fibrillation in patients with sepsis. Presented at the Annual Congress of the European Society of Intensive Care Medicine (ESICM), Lisbon, October 2026. Medical Abstract.
+- J. Koolwijk, R. Deneer, L. van den Biggelaar, A.J.R. de Bie, L.C.R. Dekker, R.A. Bouwman, W. Duivesteijn, L.C. Otterspoor: Clinical Phenotypes in Sepsis Patients with Atrial Fibrillation. To be presented at the Annual Congress of the European Society of Intensive Care Medicine (ESICM), Lisbon, October 2026. Medical Abstract.
 
 Teaching
 ======
@@ -26,6 +30,7 @@ Teaching
 
 |         Period        |    Student   | Degree |                  Topic                 |                  Collaborators                   |
 |:---------------------:|:------------:|:------:|:--------------------------------------:|:------------------------------------------------:|
+| Nov. 2026 - current   | Mirthe Denis | M.Sc.  | tbd                                    | Eindhoven University of Technology & Catharina Ziekenhuis |
 | Sep. 2026 - current   | Vera Jansen  | M.Sc.  | Stratified Student Strategies          | Eindhoven University of Technology & Algebrakit  |
 | May 2026 - current    | David Wolf   | M.Sc.  | Synthetic Missing at Random Image Data | Eindhoven University of Technology               |
 
