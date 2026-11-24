@@ -12,6 +12,16 @@
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
+
+// Override with Times New Roman / serif stack
+$serif: "Times New Roman", Times, Georgia, serif;
+$global-font-family: $serif;
+$header-font-family: $serif;
+
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: $serif;
+}
+
 @import "mixins";
 @import "vendor/susy/susy";
 
