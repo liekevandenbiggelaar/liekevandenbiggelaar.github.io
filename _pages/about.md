@@ -15,6 +15,8 @@ Publications
 Here you can find my published work, sorted by year.
 
 **2026**
+- **L. van den Biggelaar**, R.M. Schouten, I. van Heck, M. Slob, W. Duivesteijn: Efficient Mining of Collection-Based Attributes in Strongly Hierarchical Mixed-Type Data: Itemset Refinements for Exceptional Model Mining. In: Proceedings of the 33rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1 (KDD 2027), *to appear*.
+
 - D. Chambon, H. Storms, T. van Gorcum, N. Bogavarapu, J. Ludwicki, W. Duivesteijn, **L. van den Biggelaar**. 2026. [Discovering Stratified Learning Strategies for Student Subgroups with Exceptional Study Behavior: More Fine-grained Significance Categories in Regression Models](https://doi.org/10.1007/978-3-032-41086-3_47). In: Proceedings of the 29th International Conference on Discovery Science (DS 2026). Lecture Notes in Computer Science, Springer, Cham, p. 737-752.
 
 **2025**
