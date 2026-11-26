@@ -40,7 +40,7 @@ Teaching
 |:---------------------:|:------------:|:------:|:--------------------------------------:|:------------------------------------------------:|
 | Nov. 2026 - current   | Mirthe Denis | M.Sc.  | tbd                                    | Eindhoven University of Technology & Catharina Ziekenhuis |
 | Sep. 2026 - current   | Vera Jansen  | M.Sc.  | Stratified Student Strategies          | Eindhoven University of Technology & Algebrakit  |
-| May 2026 - current    | David Wolf   | M.Sc.  | Synthetic Missing at Random Image Data | Eindhoven University of Technology               |
+| May 2026 - current    | David Wolf   | M.Sc.  | Defining Missingness Mechanisms in Image Data and Generating Synthetic MAR Images using CMGAN | Eindhoven University of Technology |
 
 
 Education
